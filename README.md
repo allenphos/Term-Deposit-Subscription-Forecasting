@@ -1,6 +1,3 @@
-# Term-Deposit-Subscription-Forecasting
-
-
 # Forecasting Time Deposit Subscriptions
 
 This repository contains code and results from a machine learning project aimed at predicting the likelihood of clients subscribing to time deposit accounts.
