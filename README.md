@@ -1,12 +1,12 @@
-# Forecasting Time Deposit Subscriptions
+# Forecasting Term Deposit Subscriptions
 
-This repository contains code and results from a machine learning project aimed at predicting the likelihood of clients subscribing to time deposit accounts.
+This repository contains code and results from a machine learning project aimed at predicting the likelihood of clients subscribing to term deposit accounts.
 
 ## Problem Description:
 
-Banks are interested in forecasting the probability that potential clients will open a time deposit. This helps them optimize marketing strategies, personalize offers, and improve customer engagement efficiency.
+Banks are interested in forecasting the probability that potential clients will open a term deposit. This helps them optimize marketing strategies, personalize offers, and improve customer engagement efficiency.
 
-As part of this project, a machine learning model was developed to predict the likelihood of a time deposit subscription based on client demographic data, interaction history with the bank, and socio-economic indicators.
+As part of this project, a machine learning model was developed to predict the likelihood of a term deposit subscription based on client demographic data, interaction history with the bank, and socio-economic indicators.
 
 ## Dataset:
 
@@ -25,7 +25,7 @@ The best results were achieved using the XGBoost model.
 ![image](https://github.com/user-attachments/assets/244dbeb8-a1c0-44b4-b03e-c383ce682b0e)
 ## Results:
 
-The developed model achieved an AUROC score of **0.94** on the validation set, indicating a high level of accuracy in predicting time deposit subscriptions.
+The developed model achieved an AUROC score of **0.94** on the validation set, indicating a high level of accuracy in predicting term deposit subscriptions.
 
 ## Conclusions:
 
